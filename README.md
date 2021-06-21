@@ -3,7 +3,7 @@
 <img width="400px" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624248568583.png"> 
 <h3> and I have a lot of admiration for this area</h3>
 <h4>That's why I always seek to strengthen the knowledge I've acquired</h4>
-<h4>and also to study more to be a qualified professional.</h4>
+<h4>and also to study more to be a qualified professional :computer:</h4>
 <br>
 <br>
 
