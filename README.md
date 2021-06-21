@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hello world! I'm Alice Coelho</h1>
+<hr>
+<h3>I'm a front-end development learner</h3>
+<img width="400px" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624248568583.png"> 
+<h3> and I have a lot of admiration for this area</h3>
+<h4>That's why I always seek to strengthen the knowledge I've acquired</h4>
+<h4>and also to study more to be a qualified professional.</h4>
 
-<!--
-**alicecomoura/alicecomoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicecomoura&layout=compact)](https://github.com/alicecomoura/github-readme-stats)
+
+
+
