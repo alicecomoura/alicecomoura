@@ -6,6 +6,7 @@
 <h4>and also to study more to be a qualified professional.</h4>
 <br>
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicecomoura&layout=compact)](https://github.com/alicecomoura/github-readme-stats)
 
 
