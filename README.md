@@ -1,4 +1,4 @@
-<h1>Hello world! I'm Alice Coelho</h1>
+<h1>:earth_africa: Hello world! I'm Alice Coelho :kissing_cat: </h1>
 <h3>I'm a front-end development learner</h3>
 <img width="400px" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624248568583.png"> 
 <h3> and I have a lot of admiration for this area</h3>
