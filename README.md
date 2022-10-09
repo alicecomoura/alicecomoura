@@ -1,6 +1,6 @@
 ## Olá, bem-vindo(a)!
 
-Me chamo Alice e sou <b>Desenvolvedora Frontend</b> em uma busca </br> constante de crescimento das minhas habilidades profissionais.
+Me chamo Alice e sou <b>Desenvolvedora Frontend</b> em busca </br> constante de crescimento das minhas habilidades profissionais.
 
 <a href="https://www.linkedin.com/in/alicecomoura/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />  
